@@ -10,7 +10,7 @@ Solution to the challenge by [frontendmentor.io](https://www.frontendmentor.io/)
 </div>
 
 <div align="center">
-    <img src="" alt="The Fylo dark theme landing page" width="450" height="300">
+    <img src="https://raw.githubusercontent.com/aniru-dh21/Project-Tracking-Intro-Component/main/design/preview.png" alt="The Fylo dark theme landing page" width="450" height="300">
 </div>
 
 
