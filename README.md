@@ -19,7 +19,6 @@ Solution to the challenge by [frontendmentor.io](https://www.frontendmentor.io/)
   <ul>
     <li><a href="#overview">Challenge Overview</a></li>
     <li><a href="#built-with">Built With</a></li>
-    <li><a href="#learnt">What I learned</a></li>
   </ul>
 </div>
 
