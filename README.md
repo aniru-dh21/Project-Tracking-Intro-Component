@@ -2,7 +2,7 @@
 
 <div align="center">
 	
-[Live](https://aniru-dh21.github.io/Fylo-Dark-Theme-Landing-Page/)
+[Live](https://aniru-dh21.github.io/Project-Tracking-Intro-Component/)
 | [Solution](https://github.com/aniru-dh21/Project-Tracking-Intro-Component)
 | [Challenge](https://www.frontendmentor.io/challenges/project-tracking-intro-component-5d289097500fcb331a67d80e)
 
